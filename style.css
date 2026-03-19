@@ -1,0 +1,19 @@
+body {
+  background-color: #222;
+}
+#text-container {
+  position: relative;
+  display: inline-block;
+}
+textarea {
+  box-sizing: border-box;
+  border: 2px solid black;
+  padding: 8px;
+  border-radius: 20px;
+}
+#counter {
+  text-align: right;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
